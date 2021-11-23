@@ -4,19 +4,10 @@ module.exports = {
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {
-      fontFamily: {
-        sans: [
-          "Gontserrat",
-          "Montserrat",
-          "Roboto",
-          "bitter",
-          "Momcake",
-          "Open Sans",
-          ...defaultTheme.fontFamily.sans,
-        ],
-      },
       colors: {
+        // Configure your color palette here
         "dark-pink": "#820552",
+        brand: "#4DF69B",
       },
     },
   },
