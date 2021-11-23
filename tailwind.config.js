@@ -5,9 +5,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        // Configure your color palette here
-        "dark-pink": "#820552",
-        brand: "#4DF69B",
+        dpink: "#820552",
+        brand: "#820552",
       },
     },
   },
