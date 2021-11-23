@@ -1,0 +1,13 @@
+{
+  "name": "mvp4startup-static",
+  "version": "1.0.0",
+  "description": "MVP4STARTUP Static files",
+  "main": "index.js",
+  "author": "KennStack01",
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.3.11",
+    "tailwindcss": "^2.2.19"
+  }
+}
